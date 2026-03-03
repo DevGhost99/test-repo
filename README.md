@@ -1,24 +1,10 @@
-# Random Scripts Collection 🛠️
+# Test Repository
 
-A collection of small scripts I built while learning and experimenting.
+This repository was created to test GitHub workflows and CI/CD pipelines.
 
-## Contents
+## Experiments Done
+- GitHub Actions setup
+- Markdown formatting tests
+- Branch merge testing
 
-- File automation script
-- Log cleaner
-- Simple password generator
-- CLI reminder tool
-
-## Why this repo?
-
-Sometimes small utilities make daily workflow easier.  
-Most of these scripts were written during late-night coding sessions ☕
-
-## Tech Used
-- Python
-- Bash
-- Node.js (small experiments)
-
----
-
-> ⚠ These are experimental and may not be production ready.
+Nothing important here 🙂
